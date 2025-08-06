@@ -45,10 +45,13 @@ I’ve taken this challenge to improve my problem-solving skills by practicing a
 
 ## ✅ Daily Progress Tracker
 
-| Day | Date       | Topic         | Problem Name                          | Platform |
-|-----|------------|---------------|-------------------------------------- |----------|
-| 1   | 01-08-2025 | Arrays        | 3 Sum and 4 Sum                       | Leetcode |
-| 2   | 02-08-2025 | Arrays        | Longest Subarray With Zero Sum        | Code360  |
+| Day | Date       | Topic         | Problem Name                                | Platform |
+|-----|------------|---------------|---------------------------------------------|----------|
+| 1   | 01-08-2025 | Arrays        | 3 Sum and 4 Sum                             | Leetcode |
+| 2   | 02-08-2025 | Arrays        | Longest Subarray With Zero Sum              | Code360  |
+| 3   | 03-08-2025 | Arrays        | Count no of subarrays with given xor K      | Code360  |
+| 4   | 04-08-2025 | Arrays        | Merge two sorted arrays without extra space | Leetcode |
+| 5   | 05-08-2025 | Arrays        | Find the repeating and missing number       | Code360  |
 
 
 
